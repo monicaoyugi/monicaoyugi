@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monicaoyugi
-- 👀 I’m interested in learning and building stuff 
+- 👀 I’m interested in QA gigs
 - 🌱 I’m currently learning https://react.dev/
 - 💞️ I’m looking to collaborate on Firebase and QA
 - 📫 How to reach me, monicaoyugi@gmail.com
